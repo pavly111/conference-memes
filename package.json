@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://USERNAME.github.io/conference-memes",
+  "homepage": "https://pavly111.github.io/conference-memes",
 
   "scripts": {
     "dev": "vite",
